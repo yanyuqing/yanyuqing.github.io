@@ -1,3 +1,3 @@
-# <a href="https://yanyuqing.github.io/">ÇòÇòµÄ¸öÈËÖ÷Ò³</a> 
-![ÍøÕ¾½ØÍ¼](https://github.com/yanyuqing/yanyuqing.github.io/tree/master/img/homePic.png)
+# <a href="https://yanyuqing.github.io/">çƒçƒçš„ä¸ªäººä¸»é¡µ</a> 
+![ç½‘ç«™æˆªå›¾](https://github.com/yanyuqing/yanyuqing.github.io/blob/master/img/homePic.png)
 
